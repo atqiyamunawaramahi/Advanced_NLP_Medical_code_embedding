@@ -1,0 +1,38 @@
+####Results using Line Embedding in covid dataset###
+***Random Forest***
+Accuracy: 0.750293453724605
+              precision    recall  f1-score   support
+
+           0       0.71      0.27      0.39     26415
+           1       0.76      0.95      0.84     62185
+
+    accuracy                           0.75     88600
+   macro avg       0.73      0.61      0.62     88600
+weighted avg       0.74      0.75      0.71     88600
+
+***Logistic Regression***
+Accuracy: 0.7015575620767495
+                precision    recall  f1-score   support
+
+           0       0.35      0.00      0.00     26415
+           1       0.70      1.00      0.82     62185
+
+    accuracy                           0.70     88600
+   macro avg       0.53      0.50      0.41     88600
+weighted avg       0.60      0.70      0.58     88600
+
+***SVM***
+Accuracy: 0.7000677200902935
+              precision    recall  f1-score   support
+
+           0       0.17      0.00      0.00     26490
+           1       0.70      1.00      0.82     62110
+
+    accuracy                           0.70     88600
+   macro avg       0.43      0.50      0.41     88600
+weighted avg       0.54      0.70      0.58     88600
+
+***Neural Network***
+Accuracy: 0.730665914221219
+Precision: 0.7649381416162148
+Recall: 0.8889711801642247

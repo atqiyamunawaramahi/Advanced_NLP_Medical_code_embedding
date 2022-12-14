@@ -1,0 +1,38 @@
+***Random Forset***
+Accuracy: 0.7748871331828442
+              precision    recall  f1-score   support
+
+           0       0.71      0.41      0.52     26532
+           1       0.79      0.93      0.85     62068
+
+    accuracy                           0.77     88600
+   macro avg       0.75      0.67      0.69     88600
+weighted avg       0.77      0.77      0.75     88600
+
+***Logistic Regression***
+
+Accuracy: 0.7511286681715575
+              precision    recall  f1-score   support
+
+           0       0.65      0.36      0.47     26532
+           1       0.77      0.92      0.84     62068
+
+    accuracy                           0.75     88600
+   macro avg       0.71      0.64      0.65     88600
+weighted avg       0.74      0.75      0.73     88600
+
+***SVM***
+Accuracy: 0.6992325056433408
+              precision    recall  f1-score   support
+
+           0       0.20      0.00      0.00     26532
+           1       0.70      1.00      0.82     62068
+
+    accuracy                           0.70     88600
+   macro avg       0.45      0.50      0.41     88600
+weighted avg       0.55      0.70      0.58     88600
+
+***Neural Network***
+Accuracy: 0.7725507900677201
+Precision: 0.794213437403487
+Recall: 0.9115002900045112

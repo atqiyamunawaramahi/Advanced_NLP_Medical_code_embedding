@@ -1,0 +1,4 @@
+***Neural Network***
+Accuracy: 0.795665914221219
+Precision: 0.7999381416162148
+Recall: 0.8889711801642247
